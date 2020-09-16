@@ -36,15 +36,15 @@
 
 ### [2nd level. Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
-- [ ] [data preparation & exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
-- [ ] [interactive porto insights - a plot.ly tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
+- [■] [data preparation & exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
+- [■] [interactive porto insights - a plot.ly tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
 - [ ] [xgboost cv (lb .284)](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 - [ ] [porto seguro exploratory analysis and prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
 
 ### [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
-- [ ] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
-- [ ] [introduction to manual feature engineering](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)
+- [■] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+- [■] [introduction to manual feature engineering](https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering)
 - [ ] [stacking test-sklearn, xgboost, catboost, lightgbm](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
 - [ ] [lightgbm 7th place solution](https://www.kaggle.com/jsaguiar/lightgbm-7th-place-solution)
 
@@ -52,7 +52,7 @@
 
 ### [1st level. Costa-rican competition](https://www.kaggle.com/c/cost)
 
-- [ ] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
+- [■] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 - [ ] [3250feats->532 feats using shap[LB: 0.436]](https://www.kaggle.com/youhanlee/3250feats-532-feats-using-shap-lb-0-436)
 - [ ] [XGBoost](https://www.kaggle.com/skooch/xgboost)
 
@@ -73,14 +73,14 @@
 
 ### [2nd level. Fruits 360](https://www.kaggle.com/zalando-research/fashionmnist)
 
-- [ ] [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
-- [ ] [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras)
+- [■] [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
+- [■] [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras)
 
 ### Regression: Tabular data
 
 ### [1st level. New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 
-- [ ] [dynamics of new york city - animation](https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)
+- [■] [dynamics of new york city - animation](https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)
 - [ ] [eda + baseline model](https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
 - [ ] [beat the benchmark!](https://www.kaggle.com/danijelk/beat-the-benchmark)
 
